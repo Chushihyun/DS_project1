@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>8A8C1824-44DD-41BA-8DD3-2CF4A5660C63</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>8A8C1824-44DD-41BA-8DD3-2CF4A5660C63.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>test-avymenuktctnoigchiqwdtuhanqx</string>
+			<key>timeStartedRecording</key>
+			<real>591735799.88652205</real>
+			<key>timeStoppedRecording</key>
+			<real>591735800.77591097</real>
+			<key>title</key>
+			<string>Build target test</string>
+			<key>uniqueIdentifier</key>
+			<string>8A8C1824-44DD-41BA-8DD3-2CF4A5660C63</string>
+		</dict>
+		<key>8D8DAA80-C0D2-486B-9B50-A39BACFB53AA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>8D8DAA80-C0D2-486B-9B50-A39BACFB53AA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>DS_project_1-avymenuktctnoigchiqwdtuhanqx</string>
+			<key>timeStartedRecording</key>
+			<real>592166039.25853205</real>
+			<key>timeStoppedRecording</key>
+			<real>592166040.68680894</real>
+			<key>title</key>
+			<string>Build target DS_project_1</string>
+			<key>uniqueIdentifier</key>
+			<string>8D8DAA80-C0D2-486B-9B50-A39BACFB53AA</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>
